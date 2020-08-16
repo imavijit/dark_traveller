@@ -1,5 +1,5 @@
 # dark_traveller
-A collection of awesome projects 🐱‍🚀
+A collection of awesome stuffs.🐱‍🚀
 ## Contents
 * **Secret Cipher**
 * **SHA1 Cracker**
